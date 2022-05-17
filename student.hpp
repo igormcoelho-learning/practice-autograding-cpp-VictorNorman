@@ -1,5 +1,6 @@
 #pragma once // prevents multiple definitions
 
+
 #include <iostream> // print library
 
 // Exercise 1: implements function 'add', that adds two numbers
